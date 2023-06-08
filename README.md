@@ -1,1 +1,2 @@
-My first readme
+Shell permissions
+My name is Betty
